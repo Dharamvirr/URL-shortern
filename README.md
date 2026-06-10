@@ -112,4 +112,4 @@ The backend and frontend are deployed using **Render.com**:
 
 ## 🙌 Author
 
-**Sanjay Kumar** — *Lifelong learner, Polyglot dev, and builder of things.*
+**Dharamvir Singh** — *Lifelong learner, Polyglot dev, and builder of things.*
